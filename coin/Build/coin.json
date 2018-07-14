@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LowPolyGen",
+"dataUrl": "coin.data.unityweb",
+"asmCodeUrl": "coin.asm.code.unityweb",
+"asmMemoryUrl": "coin.asm.memory.unityweb",
+"asmFrameworkUrl": "coin.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
